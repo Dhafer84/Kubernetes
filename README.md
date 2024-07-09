@@ -1,1 +1,1 @@
-This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
+Projet ARCTIC: Deployment Application WEB
